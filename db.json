@@ -2,6 +2,7 @@
   "cars": [
     {
       "id": 1,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
       "brand": "Tata",
 			"type":"Manual",
       "year": 2019,
@@ -11,6 +12,7 @@
     },
     {
       "id": 2,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
       "brand": "Tata",
 			"type":"AMT",
       "year": 2017,
