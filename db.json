@@ -2,17 +2,15 @@
   "cars": [
     {
       "id": 1,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
       "brand": "Tata",
-			"type":"Manual",
       "year": 2019,
+			"type":"Manual",
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
     },
     {
       "id": 2,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
       "brand": "Tata",
 			"type":"AMT",
       "year": 2017,
@@ -20,5 +18,15 @@
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
     }
-  ]
+  ],
+"wishlisted_cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+			"type":"Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+}]
 }
